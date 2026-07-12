@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="{{ '/assets/img/avatar.jpg' | relative_url }}" alt="Ashish Verma" width="140" height="140" style="border-radius:50%; border:3px solid #dc2626; object-fit:cover;" />
+  <img src="{{ '/assets/img/avatar.png' | relative_url }}" alt="Ashish Verma" width="140" height="140" style="border-radius:50%; border:3px solid #b91c1c; object-fit:cover;" />
 </p>
 
 **Union City, CA** · PayPal ·

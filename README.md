@@ -1,16 +1,25 @@
-# Ashish Verma — Portfolio
+# Ashish Verma — Personal site
 
-Personal portfolio site for **Ashish Verma** (Senior AI & Data Platform Engineer).
+Live: **[https://ashishodu2023.github.io/](https://ashishodu2023.github.io/)**
 
-**Live site:** [https://ashishodu2023.github.io/](https://ashishodu2023.github.io/)
+Built with [Beautiful Jekyll](https://beautifuljekyll.com/) (`remote_theme: daattali/beautiful-jekyll`).
 
-This repository is the GitHub Pages source for [ashishodu2023.github.io](https://github.com/ashishodu2023/ashishodu2023.github.io). Pages serves static files from the root of the `main` branch.
+## Edit content
 
-## Layout
+| File | Purpose |
+|------|---------|
+| `_config.yml` | Site title, nav, colors, social links |
+| `index.md` | Home intro |
+| `about.md` / `experience.md` / `projects.md` / `papers.md` | Pages |
+| `_posts/` | Home feed items |
+| `Ashish_Verma_Resume.pdf` | Resume download |
+| `assets/img/avatar.jpg` | Navbar / header avatar |
 
-- `index.html` — main page
-- `css/styles.css`, `js/main.js` — styling and interactions
-- `images/` — assets
-- `Ashish_Verma_Resume.pdf` — resume download
+## Local preview (optional)
 
-No build step required; open or deploy as static HTML.
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+GitHub Pages builds automatically on push to `main`.

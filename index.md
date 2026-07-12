@@ -9,7 +9,7 @@ layout: default
 **Union City, CA** · PayPal ·
 [Resume]({{ '/Ashish_Verma_Resume.pdf' | relative_url }}) ·
 [GitHub](https://github.com/ashishodu2023) ·
-[LinkedIn](https://www.linkedin.com/in/ashish-verma-7a99a818) ·
+[LinkedIn](https://www.linkedin.com/in/ashish-v-7a99a818/) ·
 [Email](mailto:ashishn87@gmail.com)
 
 I build **agentic AI and data platforms** that survive production — LangGraph/MCP agents, enterprise RAG, anomaly detection, and LLMOps — and ship the same rigor in open source (**[CortexOps](https://www.getcortexops.com)**, **[TideVec](https://github.com/ashishodu2023/TideVec)**).
@@ -124,6 +124,6 @@ More: [github.com/ashishodu2023](https://github.com/ashishodu2023)
 Open to **Principal / staff** AI & data platform roles (Bay Area / hybrid).
 
 [ashishn87@gmail.com](mailto:ashishn87@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/ashish-verma-7a99a818) ·
+[LinkedIn](https://www.linkedin.com/in/ashish-v-7a99a818/) ·
 [GitHub](https://github.com/ashishodu2023) ·
 [Resume (PDF)]({{ '/Ashish_Verma_Resume.pdf' | relative_url }})

@@ -1,130 +1,34 @@
-###########################################################
-# Beautiful Jekyll — Ashish Verma
-###########################################################
-
 title: Ashish Verma
+description: Senior AI & Data Platform Engineer · Agentic AI, RAG, open source & research
+show_downloads: false
+theme: jekyll-theme-cayman
+
+url: "https://ashishodu2023.github.io"
 author: Ashish Verma
 
-###############################################
-# Navigation
-###############################################
-
-navbar-links:
-  About: "about"
-  Experience: "experience"
-  Projects: "projects"
-  Papers: "papers"
-  Resume: "Ashish_Verma_Resume.pdf"
-
-################
-# Logo / avatar
-################
-
-avatar: "/assets/img/avatar.jpg"
-round-avatar: true
-
-#####################################
-# Footer social links
-#####################################
-
-social-network-links:
-  email: "ashishn87@gmail.com"
-  github: ashishodu2023
-  linkedin: ashish-verma-7a99a818
-
-rss-description: Ashish Verma — Senior AI & Data Platform Engineer. Agentic AI, RAG, open source, and research.
-
-###########################
-# General
-###########################
-
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: true
-  vk: false
-  reddit: false
-
-url-pretty: "ashishodu2023.github.io"
-title-on-all-pages: true
-excerpt_length: 40
-feed_show_excerpt: true
-feed_show_tags: true
-post_search: false
-edit_page_button: false
-
-keywords: "Ashish Verma, AI engineer, data platform, agentic AI, LangGraph, RAG, CortexOps, TideVec, PayPal"
-
-######################################
-# Colours
-######################################
-
-page-col: "#FFFFFF"
-text-col: "#30343b"
-link-col: "#0d7377"
-hover-col: "#14919b"
-navbar-col: "#F7F8FA"
-navbar-text-col: "#30343b"
-navbar-border-col: "#E4E7EC"
-footer-col: "#F7F8FA"
-footer-text-col: "#6b7280"
-footer-link-col: "#30343b"
-footer-hover-col: "#0d7377"
-mobile-theme-col: "#0d7377"
-
-site-css:
-  - "/assets/css/custom.css"
-
-################
-# Misc
-################
-
-timezone: "America/Los_Angeles"
 markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 6
-
-kramdown:
-  input: GFM
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false
-      social-share: true
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
-  - CHANGELOG.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - README.md
   - css/
   - js/
   - images/
   - assets/css/main.css
   - assets/css/fontawesome-all.min.css
+  - assets/css/custom.css
   - assets/js/
   - assets/sass/
   - assets/webfonts/
   - assets/resume.pdf
   - assets/Ashish_Resume.docx
   - Resume_Ashish_Verma.docx
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
-
-remote_theme: daattali/beautiful-jekyll@master
+  - _posts/
+  - about.md
+  - experience.md
+  - projects.md
+  - papers.md

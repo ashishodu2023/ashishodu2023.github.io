@@ -5,6 +5,14 @@ theme: jekyll-theme-cayman
 
 url: "https://ashishodu2023.github.io"
 author: Ashish Verma
+logo: /assets/img/avatar.jpg
+
+social:
+  name: Ashish Verma
+  links:
+    - https://www.linkedin.com/in/ashish-v-7a99a818/
+    - https://github.com/ashishodu2023
+    - https://ashishodu2023.github.io/
 
 markdown: kramdown
 plugins:

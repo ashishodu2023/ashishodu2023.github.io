@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Soft teal-slate page background (replaces Cayman default white) */
+body {
+  background-color: #e8f0ec;
+  background-image:
+    radial-gradient(ellipse at top, rgba(21, 153, 87, 0.12), transparent 55%),
+    linear-gradient(180deg, #dce9e3 0%, #e8f0ec 35%, #eef4f1 100%);
+  background-attachment: fixed;
+  color: #2c3e36;
+}
+
+.main-content {
+  background: rgba(255, 255, 255, 0.72);
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(21, 87, 63, 0.08);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  backdrop-filter: blur(4px);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #0f5c45;
+}
+
+.main-content table th,
+.main-content table td {
+  border-color: #c5d9cf;
+  background-color: rgba(255, 255, 255, 0.45);
+}
+
+.main-content code {
+  background-color: #d9ebe3;
+}
+
+.main-content pre {
+  background-color: #dfece6;
+  border-color: #c5d9cf;
+}
+
+.main-content hr {
+  background-color: #b7d0c4;
+}
+
+.site-footer {
+  border-top-color: #b7d0c4;
+}

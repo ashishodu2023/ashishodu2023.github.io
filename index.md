@@ -26,27 +26,42 @@ I build **agentic AI and data platforms** that survive production — LangGraph/
 ## Experience
 
 ### Senior Data & AI Engineer — PayPal  
-**2022 – Present · San Jose, CA**
+**Feb 2022 – Present · San Jose, CA**
 
-- Enterprise AI/ML for fraud, anomaly detection, automation, and knowledge retrieval
-- Agentic workflows with **LangGraph**, **LangChain**, and **MCP**; production **RAG**
-- **VAE-BiLSTM** / CNN-BiLSTM anomaly detection on Kafka, Spark, cloud-native infra
-- LLM fine-tuning (**LoRA/QLoRA**), embeddings, governance, and AI observability
+Architect and own enterprise AI/ML platforms used for fraud detection, anomaly detection, automation, and knowledge retrieval at PayPal scale.
 
-### Data Engineer — Kforce · US Bank  
-**2020 – 2022 · San Francisco, CA**
+- Built **agentic AI** workflows with **LangGraph**, **LangChain**, and **MCP** for multi-step tool use, orchestration, and production agent deployments
+- Designed and shipped **production RAG** with vector search, semantic retrieval, embedding pipelines, and indexing at financial-data scale
+- Owned real-time **anomaly detection** using **VAE-BiLSTM** and **CNN-BiLSTM** on **Kafka**, **Spark**, and cloud-native infrastructure
+- Fine-tuned LLMs with **LoRA/QLoRA**; improved prompt and model quality for internal automation and knowledge systems
+- Established ingestion, schema evolution, **governance**, lineage, and **AI observability** frameworks for trustworthy LLMOps
+- Mentored engineers on agentic patterns, evaluation, and production ML/LLM practices
 
-- Spark/SQL pipelines for ML, fraud analytics, and near real-time feature engineering
+### Data Engineer — Kforce Inc. (US Bank)  
+**Feb 2020 – Feb 2022 · San Francisco, CA**
 
-### Data Engineer — Cognizant · US Bank & Barclays  
-**2014 – 2020 · San Francisco, CA**
+Data and ML platform engineering for banking analytics, fraud, and risk workloads.
 
-- Enterprise ETL on Spark/Hadoop; fraud/predictive analytics; governance & compliance
+- Optimized **Spark/SQL** pipelines for ML feature generation, fraud analytics, risk scoring, and operational intelligence
+- Built feature-engineering pipelines and **event-driven** architectures for near real-time analytics
+- Implemented data quality, lineage, and validation frameworks that production ML workflows depended on
+- Partnered with data science teams to harden models into reliable batch and streaming data products
 
-### Software Engineer — Wipro  
-**2010 – 2014 · India**
+### Data Engineer — Cognizant (US Bank, Barclays)  
+**Mar 2014 – Feb 2020 · San Francisco, CA**
 
-- Data warehouse and reporting automation
+Enterprise data engineering across regulated banking and capital-markets environments.
+
+- Built large-scale **ETL/analytics** on **Spark**, **Hadoop**, Python, and SQL for predictive analytics and BI
+- Designed ingestion frameworks and analytical models for **fraud detection**, forecasting, and scoring
+- Implemented **governance**, lineage, auditing, and compliance controls for regulated financial reporting
+- Delivered durable pipelines and data products across US Bank and Barclays engagements
+
+### Software Engineer — Wipro Technologies  
+**Nov 2010 – Mar 2014 · India**
+
+- Developed data warehouse and reporting automation (**PL/SQL**, **Python**) for enterprise clients
+- Built foundational warehousing and reporting systems that preceded the move into large-scale data platforms
 
 ---
 
@@ -106,7 +121,7 @@ More: [github.com/ashishodu2023](https://github.com/ashishodu2023)
 
 ## Contact
 
-Open to **senior / staff** AI & data platform roles (Bay Area / hybrid).
+Open to **Principal / staff** AI & data platform roles (Bay Area / hybrid).
 
 [ashishn87@gmail.com](mailto:ashishn87@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/ashish-verma-7a99a818) ·
